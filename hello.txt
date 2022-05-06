@@ -5,3 +5,4 @@ master
 lhm2
 新加的内容
 测试ssh免密登录
+new master0.0
